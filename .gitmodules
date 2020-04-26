@@ -1,0 +1,9 @@
+[submodule "liblpvc"]
+	path = liblpvc
+	url = ../liblpvc
+[submodule "lpvc-vfw"]
+	path = lpvc-vfw
+	url = ../lpvc-vfw
+[submodule "ffmpeg-lpvc"]
+	path = ffmpeg-lpvc
+	url = ../ffmpeg-lpvc
